@@ -13,3 +13,11 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 6) Histogram shown with appropriate labelling: 1 pt
 * (Question 7) Histogram shown with appropriate labelling: 1 pt
 * (Question 8) Thoughtful answer provided: 1 pt
+
+
+# installing spacy
+pip install spacy==3.7.0
+
+pip install cython cymem preshed murmurhash thinc numpy
+# error installing thinc if I use this code, but installing previous version works (see above)
+
